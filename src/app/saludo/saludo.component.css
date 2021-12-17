@@ -1,0 +1,17 @@
+/* 
+no aplica css desde aquí al body 
+body {
+  background-color: aqua;
+} */
+
+p {
+  background-color: darkseagreen;
+}
+
+#parrafo__principal {
+  background-color: lightseagreen;
+}
+
+#main {
+  background-color: indianred;
+}

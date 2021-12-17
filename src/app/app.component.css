@@ -1,0 +1,7 @@
+.app-medio {
+  display: flex;
+  justify-content: space-evenly;
+}
+.main {
+  margin-bottom: 500px;
+}

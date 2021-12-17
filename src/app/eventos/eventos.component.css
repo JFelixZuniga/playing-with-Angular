@@ -1,0 +1,10 @@
+button {
+  display: flex;
+  margin: 1rem auto;
+  padding: 1rem 3rem;
+  background-color: darkcyan;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 15px;
+}
