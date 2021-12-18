@@ -12,6 +12,7 @@ import { CronometroComponent } from './components/cronometro/cronometro.componen
 
 import { HeroesModule } from './components/heroes/heroes.module';
 import { ContadorModulo } from './components/contador/contador.module';
+import { DbzModule } from './dbz/dbz.module';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,7 @@ import { ContadorModulo } from './components/contador/contador.module';
     SumarComponent,
     CronometroComponent,
   ],
-  imports: [BrowserModule, HeroesModule, ContadorModulo],
+  imports: [BrowserModule, HeroesModule, ContadorModulo, DbzModule],
   providers: [],
   bootstrap: [AppComponent],
 })
